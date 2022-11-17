@@ -1,7 +1,7 @@
 ///////////////////////////////
 // DEPENDENCIES
 ////////////////////////////////
-
+/test/
 // import recipe router
 const peopleController = require('./controllers/people-controller')
 
